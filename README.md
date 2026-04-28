@@ -32,5 +32,5 @@ leading managers and teams at scale.
 ## Links
 
 - **Website:** [shep-engineering.github.io](https://shep-engineering.github.io/)
-- **LinkedIn:** [david-sheppard-42225b94](https://www.linkedin.com/in/david-sheppard-42225b94/)
+- **LinkedIn:** [davidallensheppard](https://www.linkedin.com/in/davidallensheppard)
 - **Open Brain Docs:** [shep-engineering.github.io/open-brain](https://shep-engineering.github.io/open-brain/)
