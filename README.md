@@ -11,6 +11,7 @@ leading managers and teams at scale.
 | Project | What it does |
 |---------|-------------|
 | **[Open Brain](https://github.com/shep-engineering/open-brain)** | Persistent AI second brain: MCP server + pgvector + local LLMs. Shared memory across Claude, Windsurf, Cursor, and Copilot. |
+| **[Waygate AI](https://github.com/shep-engineering/waygate-ai)** | A guarded gateway between your application and AI providers. Python LLM client that unifies Anthropic, OpenAI, and local Ollama behind one interface with retry handling, cost telemetry, and prompt-injection defenses. |
 | **[Agentic Lab](https://github.com/shep-engineering/agentic-lab)** | Two-agent LangGraph workflow with 3-tier model routing and Open Brain integration. |
 | **[Local AI Workstation](https://github.com/shep-engineering/local-ai-workstation)** | Interactive setup wizard for a local AI workstation: LLMs, image gen, and video gen on any NVIDIA GPU. |
 
