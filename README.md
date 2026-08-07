@@ -6,7 +6,7 @@ I lead teams building **secure, reliable, cloud-native platforms**, and I build
 open-source AI agent tooling in the open. 20+ years in engineering, 7+ years
 leading managers and teams at scale.
 
-## Open Source
+## Open Source (Personal Side Projects)
 
 | Project | What it does |
 |---------|-------------|
