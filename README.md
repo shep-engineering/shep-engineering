@@ -28,7 +28,7 @@ leading managers and teams at scale.
 - **Cloud-native platforms:** AWS/Azure, Kubernetes, microservices, API-first design
 - **Cybersecurity:** IAM, credential handling, governance, secure SDLC, audit readiness
 - **DevOps and delivery:** GitHub Actions, GitOps, CI/CD, DORA metrics, observability
-- **Languages:** Python, Java, JavaScript, SQL
+- **Languages:** Python, JavaScript, SQL
 
 ## Links
 
