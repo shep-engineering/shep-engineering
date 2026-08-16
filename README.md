@@ -1,6 +1,8 @@
-# David Sheppard
-
-**Engineering Leader | AI Systems Builder | Platform Architect**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shep-engineering/shep-engineering/main/assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shep-engineering/shep-engineering/main/assets/banner-light.svg">
+  <img alt="David Sheppard — Engineering Leader, AI Systems Builder, Platform Architect" src="https://raw.githubusercontent.com/shep-engineering/shep-engineering/main/assets/banner-light.svg">
+</picture>
 
 I lead teams building **secure, reliable, cloud-native platforms**, and I build
 open-source AI agent tooling in the open. 20+ years in engineering, 7+ years
@@ -14,6 +16,7 @@ leading managers and teams at scale.
 | **[Waygate AI](https://github.com/shep-engineering/waygate-ai)** | A guarded gateway between your application and AI providers. Python LLM client that unifies Anthropic, OpenAI, and local Ollama behind one interface with retry handling, cost telemetry, and prompt-injection defenses. |
 | **[Agentic Lab](https://github.com/shep-engineering/agentic-lab)** | Two-agent LangGraph workflow with 3-tier model routing and Open Brain integration. |
 | **[Local AI Workstation](https://github.com/shep-engineering/local-ai-workstation)** | Interactive setup wizard for a local AI workstation: LLMs, image gen, and video gen on any NVIDIA GPU. |
+| **[Agentic Loop](https://github.com/shep-engineering/agentic-loop)** | A shareable discipline for agent work: plan, validate, execute, validate, with an independent reviewer at each gate. Ships as a self-contained kit (method, automation, optional tamper-evident ledger). |
 
 ## Enterprise Impact
 
